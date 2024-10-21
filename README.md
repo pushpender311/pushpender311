@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pushpender311
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently Springboot
 - 💞️ I’m looking to collaborate on Android
-- 📫 How to reach me ...
+- 📫 Reach me at pushpender311@gmail.com
 
 <!---
 pushpender311/pushpender311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
