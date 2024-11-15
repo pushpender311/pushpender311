@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pushpender311
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently Springboot
+- 🌱 I’m currently learning Springboot
 - 💞️ I’m looking to collaborate on Android
 - 📫 Reach me at pushpender311@gmail.com
 
